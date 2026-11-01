@@ -1,0 +1,22 @@
+{
+ "characters": {
+  "denji":  {"instruct": "A 16-year-old Japanese boy. Rough, casual, slightly hoarse voice; earnest, a bit dumb and blunt, delinquent street-kid tone, natural anime-style acting.",
+             "ref_text": "なあ、腹減ったなあ。今日の晩メシ、何にすっかなあ。"},
+  "makima": {"instruct": "A Japanese adult woman in her twenties. Calm, soft, low and smooth voice; gentle and warm on the surface but eerily composed and in control, speaking quietly and slowly.",
+             "ref_text": "大丈夫。あなたは、私の言うことを聞いていればいいの。"},
+  "reze":   {"instruct": "A Japanese young woman around eighteen. Sweet, light, gentle and playful voice with a teasing, mysterious charm; natural anime-style acting.",
+             "ref_text": "ねえ、夏祭り、一緒に行かない？きっと楽しいよ。"}
+ },
+ "lines": [
+  {"id":1,"spk":"denji","start":8.15,"end":11.90,"text":"マキマさん……俺に、心ってあると思います？","ko":"마키마 씨는... 저한테 마음이라는 게 있다고 생각하세요?"},
+  {"id":2,"spk":"makima","start":13.20,"end":14.30,"text":"あったよ。","ko":"있네"},
+  {"id":3,"spk":"reze","start":17.37,"end":19.65,"text":"私の名前は、レゼ。","ko":"내 이름은 레제"},
+  {"id":4,"spk":"reze","start":21.13,"end":23.39,"text":"私が全部、教えてあげる。","ko":"내가 전부 다 가르쳐 줄게"},
+  {"id":5,"spk":"denji","start":24.07,"end":26.70,"text":"この子、好きになっちまう……","ko":"이 여자한테 반할 것 같아"},
+  {"id":6,"spk":"reze","start":32.56,"end":34.40,"text":"ボムが来る。","ko":"밤이 올 거야"},
+  {"id":7,"spk":"reze","start":37.64,"end":41.22,"text":"みんな、チェンソーの心臓ばっか欲しがっちゃって。","ko":"다들 체인소의 심장만 원하고"},
+  {"id":8,"spk":"reze","start":41.73,"end":45.02,"text":"デンジ君の心臓は、欲しがらないの？","ko":"내 심장엔 관심도 없지?"},
+  {"id":9,"spk":"reze","start":47.00,"end":48.36,"text":"ボンッ！","ko":"붐"},
+  {"id":10,"spk":"reze","start":52.56,"end":54.20,"text":"チェンソー！","ko":"체인소!"}
+ ]
+}
